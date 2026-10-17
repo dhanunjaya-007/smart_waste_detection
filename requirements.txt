@@ -1,0 +1,8 @@
+   streamlit
+   streamlit-webrtc
+   tensorflow-cpu==2.17.1
+   keras==3.9.0
+   numpy==1.26.4
+   opencv-python-headless==4.10.0.84
+   pillow
+   typing-extensions>=4.14.1
